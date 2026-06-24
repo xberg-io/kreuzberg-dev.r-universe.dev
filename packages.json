@@ -1,12 +1,12 @@
 [
     {
         "package": "kreuzberg",
-        "url": "https://github.com/kreuzberg-dev/kreuzberg",
+        "url": "https://github.com/xberg-io/kreuzberg",
         "subdir": "packages/r"
     },
     {
         "package": "htmltomarkdown",
-        "url": "https://github.com/kreuzberg-dev/html-to-markdown",
+        "url": "https://github.com/xberg-io/html-to-markdown",
         "subdir": "packages/r"
     }
 ]
