@@ -22,5 +22,5 @@ install.packages("htmltomarkdown", repos = "https://xberg-io.r-universe.dev")
 ## Links
 
 - [xberg-io.r-universe.dev](https://xberg-io.r-universe.dev)
-- [Kreuzberg Documentation](https://kreuzberg.dev)
+- [Kreuzberg Documentation](https://xberg.io)
 - [html-to-markdown Documentation](https://github.com/xberg-io/html-to-markdown)
